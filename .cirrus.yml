@@ -1,6 +1,6 @@
 env:
   # Telegram
-  TG_CHAT: "@dump_rom_bot"
+  TG_CHAT: "@Romdumprx"
   TG_TOKEN: ENCRYPTED[56686d80b8b0d80e240aa21203c87b2812c7572eb8504eb3b3c70cc234189738391a2af7ae12eb17e2e179a05bf6a1cd]
   
   # Gitlab
